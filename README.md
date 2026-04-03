@@ -115,7 +115,7 @@ User → API (Django DRF) → Business Logic → DB
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/sidhu-26" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhu-26&theme=react-dark" />
 </p>
 
 ---
