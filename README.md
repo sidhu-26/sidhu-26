@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Siddaarth+PT;Director+of+Software+Engineering;Building+Scalable+Systems;Django+%7C+DRF+%7C+Redis+%7C+WebSockets" />
+  <img src="https://komarev.com/ghpvc/?username=sidhu-26&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
