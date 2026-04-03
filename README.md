@@ -1,12 +1,12 @@
 <!-- 🔥 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Siddaarth+PT;Director+of+Software+Engineering;Building+Scalable+Systems;Django+%7C+DRF+%7C+Redis+%7C+WebSockets" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Siddaarth+PT;Director+of+Software+Engineering;Building+Scalable+Systems;Django+%7C+DRF+%7C+Redis+%7C+WebSockets" />
 </p>
 
 ---
 
-<!-- 📈 Visitor Counter -->
+<!-- 👀 Profile Views -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidhu-26&label=Profile%20views&color=0e75b6&style=flat" />
@@ -20,32 +20,34 @@ Hi, I'm **Siddaarth PT** from Chennai, India 🇮🇳
 
 * 🚀 Director of Software Engineering at FluentX
 * ⚡ Founding engineer building **production-grade systems from scratch**
-* 🧠 Strong focus on **system design, scalability, and backend architecture**
-* 🏗️ Built and scaled a **full social fitness platform (SocioFitt)** end-to-end 
+* 🧠 Focused on **system design, scalability, backend architecture**
+* 🏗️ Built and scaled a **social fitness platform (SocioFitt)** end-to-end
 
 ---
 
 ## ⚡ What I Actually Do
 
 * Architect systems from **first principles**
-* Build **high-scale REST APIs (200+ endpoints)** 
-* Design **fault-tolerant async systems (Celery + Redis)** 
-* Implement **real-time features using WebSockets** 
-* Optimize **database performance & query efficiency** 
+* Build **high-scale REST APIs (200+ endpoints)**
+* Design **fault-tolerant async systems (Celery + Redis)**
+* Implement **real-time systems using WebSockets**
+* Optimize **database performance & query efficiency**
 
 ---
 
-## 🧠 System Thinking
+## 🧠 System Architecture Mindset
 
 ```
-User → API Layer (DRF) → Business Logic → DB / Cache
-                           ↓
-                  Celery Workers (Async Jobs)
-                           ↓
-                        Redis Queue
+User → API (Django DRF) → Business Logic → DB
+                          ↓
+                   Redis Cache Layer
+                          ↓
+                 Celery Workers (Async)
+                          ↓
+                     Event Processing
 ```
 
-⚡ Focus: **Low latency + High reliability + Scalable architecture**
+⚡ Focus: **Low latency + High reliability + Horizontal scalability**
 
 ---
 
@@ -79,33 +81,33 @@ User → API Layer (DRF) → Business Logic → DB / Cache
 
 ### 🧩 SocioFitt (Social Fitness Platform)
 
-* Built end-to-end system (backend + frontend + infra) 
-* Designed scalable DB schema & APIs
-* Integrated AI (LLM-based workout + meal planning) 
-* Deployed on AWS with CI/CD pipelines
+* Built full system (backend + frontend + infra)
+* Designed scalable APIs & DB schema
+* Integrated AI-based recommendations
+* Deployed on AWS with CI/CD
 
 ---
 
 ### ⚡ NotifyX (Event Notification System)
 
-* Fault-tolerant async system using Celery + Redis 
-* Implemented retries, DLQ, and priority queues
-* Designed for **high reliability under failure conditions**
+* Built fault-tolerant async system
+* Implemented retries, DLQ, queue prioritization
+* Designed for **high reliability under failure**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidhu-26&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=sidhu-26&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu-26&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -113,7 +115,7 @@ User → API Layer (DRF) → Business Logic → DB / Cache
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhu-26&theme=react-dark" />
+  <img src="https://ghchart.rshah.org/sidhu-26" />
 </p>
 
 ---
@@ -124,6 +126,14 @@ User → API Layer (DRF) → Business Logic → DB / Cache
 * Football ⚽
 * Swimming 🏊‍♂️
 * Handball 🤾‍♂️
+
+---
+
+## 📫 Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/siddaarth
+* 🌐 Portfolio: https://siddaaarth.vercel.app
+* 📧 Email: [siddaarth26@gmail.com](mailto:siddaarth26@gmail.com)
 
 ---
 
